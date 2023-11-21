@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News App", "News App\News App.csproj", "{A0B2C609-4FAC-4C01-BF7B-A95756725912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B2C609-4FAC-4C01-BF7B-A95756725912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B2C609-4FAC-4C01-BF7B-A95756725912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B2C609-4FAC-4C01-BF7B-A95756725912}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A0B2C609-4FAC-4C01-BF7B-A95756725912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B2C609-4FAC-4C01-BF7B-A95756725912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B2C609-4FAC-4C01-BF7B-A95756725912}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992BA5A0-A4B2-48E3-A20B-4DAD7F2EBD6C}
+	EndGlobalSection
+EndGlobal
